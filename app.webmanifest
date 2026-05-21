@@ -1,0 +1,19 @@
+{
+  "name": "Aligner Tracker",
+  "short_name": "Aligner",
+  "description": "Track 10-day aligner trays, treatment progress, and dentist visits.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#F5F5F5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
